@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ahmed-bin-saeed
+- 👀 I’m interested in creating High tech user friendly websites
+- 🌱 I’m currently learning Web and App Development from Saylani Mass It Training
+- ⚡ Fun fact: Web development gives you the opportunity to express yourself creatively on the internet
